@@ -12,7 +12,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejaspedge&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspedge&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=tejaspedge&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
