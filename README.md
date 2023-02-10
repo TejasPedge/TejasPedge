@@ -28,7 +28,7 @@
 
 # 💫 About Me:
 
-I am an aspiring Full Stack Developer  from India. <br>  <br> 
+An aspiring Full Stack Developer  from India. <br>  <br> 
 
   - ➡️ 🌱 I’m currently learning  : **Typescript** <br>
   - ➡️ 📫 How to reach me : **tejaspedge512@gmail.com**  <br>
