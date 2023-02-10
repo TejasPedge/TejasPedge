@@ -33,6 +33,9 @@ An aspiring Full Stack Developer  from India. <br>  <br>
   - ➡️ 🌱 I’m currently learning  : **Typescript** <br>
   - ➡️ 📫 How to reach me : **tejaspedge512@gmail.com**  <br>
   - ➡️ ⚡ Fun fact **“Java is to JavaScript what car is to Carpet.”**<br>
+  - ➡️ 🌱 I’m currently learning  : **Typescript** <br>
+  - ➡️ 📫 How to reach me : **tejaspedge512@gmail.com**  <br>
+  - ➡️ ⚡ Fun fact **“Java is to JavaScript what car is to Carpet.”**<br>
 
 
 
