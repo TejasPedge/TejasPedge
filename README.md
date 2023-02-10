@@ -1,5 +1,38 @@
+
+
+<style>
+  
+  .about {
+  
+     border : 2px solid red;
+  
+  }
+  
+  
+</style>
+
+
+
+
+
+
 # 💫 About Me:
+
+
+<div class = 'about'>
+
+
 <br>-----------------------------------------------------------<br>==> 🌱 I’m currently learning  : Typescript <br>-----------------------------------------------------------<br>==> 📫 How to reach me : tejaspedge512@gmail.com <br>-----------------------------------------------------------<br>==> ⚡ Fun fact “Java is to JavaScript what car is to Carpet.” <br>-----------------------------------------------------------
+
+
+
+  
+</div>
+
+
+
+
+
 
 
 ## 🌐 Socials:
