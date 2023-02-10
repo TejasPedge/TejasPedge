@@ -1,14 +1,11 @@
-<img src = 'https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/465203/image-1607186163027-08f7f301d7d9bc30bbb10ceed33134a0.gif'>
-
+![logo]("https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/465203/image-1607186163027-08f7f301d7d9bc30bbb10ceed33134a0.gif")
   
 # 💫 About Me:
 
 
 <br>-----------------------------------------------------------<br>==> 🌱 I’m currently learning  : Typescript <br>-----------------------------------------------------------<br>==> 📫 How to reach me : tejaspedge512@gmail.com <br>-----------------------------------------------------------<br>==> ⚡ Fun fact “Java is to JavaScript what car is to Carpet.” <br>-----------------------------------------------------------
 
-<img src = 'https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/465203/image-1607186163027-08f7f301d7d9bc30bbb10ceed33134a0.gif'>
 
-  
 
 
 
