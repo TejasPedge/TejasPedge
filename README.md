@@ -1,4 +1,7 @@
 
+<img width = '1100px' src = https://github.com/TejasPedge/TejasPedge/blob/main/gallery.gif>
+
+
 # 💫 About Me:
 
 
