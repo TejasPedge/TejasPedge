@@ -23,7 +23,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
  -->
-<img margin = '30px' align="right" width = '400px' src = https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif>
+<img margin = '30px' align="right" width = '400px' src = https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif> 
 
 
 # 💫 About Me:
@@ -58,10 +58,18 @@ An aspiring Full Stack Developer  from India. <br>  <br>
 ![](https://github-profile-trophy.vercel.app/?username=tejaspedge&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
  -->
+ 
+ 
 ## 🏆 GitHub Trophies
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 ![](https://github-profile-trophy.vercel.app/?username=tejaspedge&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+ 
+ 
 
 
 
