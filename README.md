@@ -73,7 +73,10 @@ An aspiring Full Stack Developer  from India. <br>  <br>
 
 
 
----
+
+
+![Snake animation](https://github.com/Marione-Tainara/Marione-Tainara/blob/output/github-contribution-grid-snake.svg)	
+
 [![](https://visitcount.itsvg.in/api?id=tejaspedge&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
