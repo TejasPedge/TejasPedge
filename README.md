@@ -4,7 +4,7 @@
     
   
 
-<img width = '1100px' src = https://github.com/TejasPedge/TejasPedge/blob/main/gallery%20(1).gif>
+<img width = '1100px' src = https://github.com/TejasPedge/TejasPedge/blob/main/gallery%20(2).gif>
 
 
 
